@@ -3,7 +3,7 @@ cs11 - Java Track
 
 CS11 Java - Spring 2012-2013 (http://courses.cms.caltech.edu/cs11/material/java/donnie/index.html)
 
-lab1 - Intro
+lab1 - Intro 
 
 lab2 - Collection classes
 
